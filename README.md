@@ -13,6 +13,7 @@ This installation uses a few things you might need to install before being able 
 + `gotop` as activity manager
 + `inconsolata` as font
 + `neofetch` as system information
++ `feh` as wallpaper manager
 
 ## Screenshots
 
